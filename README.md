@@ -4,20 +4,11 @@
 
 ---
 
-### 📜 Mattov Información
 👀 __**Estoy interesado en:**__
 * La programación y diseño gráfico
 
 📫 __**Contacto:**__
-* Me puedes contactar vía Discord: `[Mattov#8790]`
-<p align="left">
-
-<a href = "https://twitter.com/Mattov_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
-
-📖 __**Proyectos:**__
-* Mi proyecto actúal es Huasfy, será un bot público para Discord, con diferentes tipo de comandos y se le integrara el tema de música
+* Me puedes contactar vía Discord: `Zyogex#2942`
 
 ## Lenguajes y herramientas
 
