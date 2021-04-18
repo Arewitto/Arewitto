@@ -1,14 +1,17 @@
+<div align="center">
+<p align="justify/left/right/center">
+<img src="https://pbs.twimg.com/media/EzSjSHQVkAQY3jC?format=jpg&name=large">
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Me llamo Andrés, Programador de la Ciudad de Tijuana, BC, México</h3>
 
 ---
 
-👀 __**Estoy interesado en:**__
-* La programación y diseño gráfico
+### Sobre mí
 
-📫 __**Contacto:**__
-* Me puedes contactar vía Discord: `Zyogex#2942`
+Hola, Me llamo **Andrés Lara**, pero en virtualmente soy **Zyonrax**, soy el fundador de **__SlynkOG__** Empeze en la Programación y el Diseño Gráfico a los 14 años, me gustaría ser Software Engineer y para que la tecnología nos ayude en el futuro, Sin programadores internet no es nada
+
+---
 
 ## Lenguajes y herramientas
 
