@@ -1,6 +1,6 @@
 <div align="center">
 <p align="justify/left/right/center">
-<img src="https://pbs.twimg.com/media/EzSjSHQVkAQY3jC?format=jpg&name=large">
+<img src="https://github.com/Zyonrax/gif/blob/main/Githubinfo.jpg?raw=true">
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Me llamo Andrés, Programador de la Ciudad de Tijuana, BC, México</h3>
