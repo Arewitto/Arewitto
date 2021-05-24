@@ -1,6 +1,6 @@
 <div align="center">
 <p align="justify/left/right/center">
-<img src="https://github.com/Kiyonrax/gif/blob/main/Bio%20design.jpg?raw=true">
+<img src="https://github.com/Vecilent/gif/blob/main/GHKIU.jpg?raw=true">
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Me llamo Andrés, Programador de la Ciudad de Tijuana, BC, México</h3>
@@ -9,7 +9,7 @@
 
 ### Sobre mí
 
-Hola, Me llamo **Andrés Lara**, pero en virtualmente soy **Kiyonrax**, Empeze en la Programación y el Diseño Gráfico a los 14 años, me gustaría ser Software Engineer y para que la tecnología nos ayude en el futuro, Sin programadores internet no es nada
+Hola, Me llamo **Andrés Lara**, pero en virtualmente soy **Vecilent**, Empeze en la Programación y el Diseño Gráfico a los 14 años, me gustaría ser Software Engineer actúalmente mi main en la programación es Javascript, estoy intentando que mi segundo main sea Python
 
 ---
 
