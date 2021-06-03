@@ -3,7 +3,7 @@
 <img src="https://github.com/Olhawk/gif/blob/main/2o.jpg">
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1><h3 align="center">Un gusto conocerte Me llamo Andrés, soy la Ciudad de Tijuana, BC, México</h3>
+</h1><h3 align="center">Me llamo Andrés, soy la Ciudad de Tijuana, BC, México</h3>
 
 ---
 
