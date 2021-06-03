@@ -2,14 +2,14 @@
 <p align="justify/left/right/center">
 <img src="https://github.com/Vecilent/gif/blob/main/GHKIU.jpg?raw=true">
 
-<h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Me llamo Andrés, Programador de la Ciudad de Tijuana, BC, México</h3>
+<h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1><h3 align="center">Un gusto conocerte Me llamo Andrés, soy la Ciudad de Tijuana, BC, México</h3>
 
 ---
 
 ### Sobre mí
 
-Hola, Me llamo **Andrés Lara**, pero en virtualmente soy **Vecilent**, Empeze en la Programación y el Diseño Gráfico a los 14 años, me gustaría ser Software Engineer actúalmente mi main en la programación es Javascript, estoy intentando que mi segundo main sea Python
+Hola, Me llamo **Andrés Lara**, pero en virtualmente soy **Olhawk**, Empecé en la programación por inicios de la pandemía de COVID-19 ósea en 2020, me gustaría ser Software Engineer.
 
 ---
 
