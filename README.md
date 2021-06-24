@@ -9,7 +9,7 @@
 
 ### Sobre mí
 
-Hola, Me llamo **Andrés**, pero en virtualmente soy **Olhawk**, Empecé en la programación por inicios de la pandemía de COVID-19 ósea en 2020, me gustaría ser Software Engineer.
+Hola, Me llamo **Andrés**, pero en virtualmente soy **Taphocal**, Empecé en la programación por inicios de la pandemía de COVID-19 ósea en 2020, me gustaría ser Software Engineer.
 
 ---
 
