@@ -1,5 +1,5 @@
 <p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/vearndev/imgs/blob/main/githubmephoto.png?raw=true">
+    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/vearphy/imgs/blob/main/githubmephoto.png?raw=true">
 </p>
 
 
@@ -7,14 +7,14 @@
 
 ### 🤙🏼 **·** Sobre mi
 
-Hola, me llamo Andrés, pero virtualmente soy Vearn empece en el mundo de la programación a la edad de 12 años creando Bots para Discord
+Hola, me llamo Andrés, pero virtualmente soy Vearphy empece en el mundo de la programación a la edad de 12 años creando Bots para Discord
 
 Actúalmente estoy soñando con ser Ingeniero de Software; de Igual forma me gustaría crear una compañía de Ciberseguridad, carros eletronicos, móviles, computadoras, etc. Algo parecido como todo en uno
 
 ### 📫 **·** Contacto
 
-**·** [Twitter](https://www.twitter.com/vearndev)
-**|** [Instagram](https://www.instagram.com/vearndev/)
+**·** [Twitter](https://www.twitter.com/vearphy)
+**|** [Instagram](https://www.instagram.com/vearphy/)
 **|** [Discord](https://discord.com/users/560327765317124097)
 **|** [Server](https://discord.gg/comingsoon) **·**</h>
 
