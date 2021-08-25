@@ -1,10 +1,4 @@
-<p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/arewitto/imgs/blob/main/githubmephoto.png?raw=true">
-</p>
-
----
-
-### 🍟 - Sobre mi
+# 🍟 - Sobre mi
 
 ¡Hola! <img src="https://user-images.githubusercontent.com/57642291/115981321-b7a44c80-a58a-11eb-8109-79aa8bcf0698.gif" width="25px"> Me llamo Andrés, pero virtualmente soy Arewitto, Empece en el Mundo de la programación a la edad de 12 años. Ah lo largo de 3 años se me han pasado una gran cantidad de proyectos por la mente pero como tenía un conocimiento escaso en la programación no me animaba ah crearlos y hacerlos realidad, la programación es algo que me encanta y que si por mi fuese todo lo hiciese tecnologíco
 
