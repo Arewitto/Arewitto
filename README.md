@@ -8,8 +8,8 @@
 
 ### 📫 - Contacto
 
-- <img align="center" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /> **·** [Twitter](https://www.twitter.com/marecuv)
-- <img align="center" alt="Instagram" width="26px" src="https://i.imgur.com/WaffgJJ.png" /> **·** [Instagram](https://www.instagram.com/marecuv/)
+- <img align="center" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /> **·** [Twitter](https://www.twitter.com/asoolur)
+- <img align="center" alt="Instagram" width="26px" src="https://i.imgur.com/WaffgJJ.png" /> **·** [Instagram](https://www.instagram.com/asoolur/)
 - <img align="center" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" /> **·** [Discord](https://discord.com/users/560327765317124097)
 
 
@@ -19,8 +19,3 @@
 - <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> **·** `Main Language:` **JavaScript**
 - <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> **·** `Aprendiendo:` **Python**
 
-### 💻 - Projectos
-
-- <img align="center" alt="Sensnal" width="26px" src="https://i.imgur.com/T1lggTF.png" /> **·** [Sensnal](https://twitter.com/sensnal) `En curso` **·** Este projecto tengo pensado en hacerlo algo grande algo que vaya mas haya que un simplemente bot de discord, lo quiero transformar en una compañía que sea de seguridad, carros elétronicos; Tecnología en pocas palabras.
-
-- [Engineer](https://discord.com/users/871164265086717992) `En pausa` **·** Bot de música para Discord, 
